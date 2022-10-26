@@ -8,7 +8,6 @@ nav {
 }
 
 h1 {
-  text-align: center;
   text-transform: uppercase;
   font-family: Georgia, 'Times New Roman', Times, serif;
 }
@@ -16,5 +15,8 @@ h1 {
 footer {
   background-color: gray;
   height: 1.5rem;
+}
+
+.text-center {
   text-align: center;
 }
