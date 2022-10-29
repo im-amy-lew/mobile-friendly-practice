@@ -83,3 +83,22 @@ footer {
   background-color: var(--secondary);
   padding: var(--xlg);
 }
+
+/* Media queries */
+@media only screen and (max-width: 1024px) {
+  header {
+    background-color: #fce046;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  header {
+    background-color: #ff8800;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  header {
+    background-color: #fc430b;
+  }
+}
